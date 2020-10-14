@@ -8,9 +8,7 @@ https://docs.openfaas.com/deployment/kubernetes/
 
 https://minikube.sigs.k8s.io/docs/
 
-**Alternativa**
-
-Play with Kubernetes
+**Alternativa - Play with Kubernetes**
 
 https://labs.play-with-k8s.com/
 
